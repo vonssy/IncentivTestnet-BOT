@@ -217,8 +217,8 @@ We welcome contributions from the community! Here's how you can help:
 ## 📞 Contact & Support
 
 - **Developer:** vonssy
-- **Issues:** [GitHub Issues](https://github.com/vonssy/AutoStaking-BOT/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/vonssy/AutoStaking-BOT/discussions)
+- **Issues:** [GitHub Issues](https://github.com/vonssy/IncentivTestnet-BOT/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/vonssy/IncentivTestnet-BOT/discussions)
 
 ---
 
