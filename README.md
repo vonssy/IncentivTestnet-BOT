@@ -44,7 +44,7 @@ Incentiv Testnet BOT is an automated tool designed to streamline onchain operati
 - 👥 **Multi-Account Support** - Manage multiple accounts simultaneously
 
 ## 🏷️ Price
-- **Price:** $5 in Cryptocurrency
+- **Price:** $8 in Cryptocurrency
 - **Contact:** [Vonssy](https://t.me/vonssy_2nd)
 
 ## 📋 Requirements
