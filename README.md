@@ -24,7 +24,7 @@ Incentiv Testnet BOT is an automated tool designed to streamline onchain operati
 
 **🔗 Get Started:** [Register on Incentiv Testnet](https://testnet.incentiv.io/login?refCode=mUyNWvs8rzF6ssue38uepw)
 
-> **Important:** Connect new evm wallet.
+> **Important:** Sign-Up With Passkey or New EVM Wallet.
 
 ## ✨ Features
 
@@ -123,12 +123,23 @@ BUNDLE_ACTION_AMOUNT = 0.1
 
 ### Account Setup
 
-Create or edit `accounts.txt` in the project directory:
+Create or edit `accounts.json` in the project directory:
 
-```
-your_private_key_1
-your_private_key_2
-your_private_key_3
+```json
+[
+    {
+        "private_key": "your_private_key_1"
+    },
+    {
+        "private_key": "your_private_key_2"
+    },
+    {
+        "mnemonic": "your_mnemonic_1"
+    },
+    {
+        "mnemonic": "your_mnemonic_2"
+    }
+]
 ```
 
 ### Proxy Configuration (Optional)
